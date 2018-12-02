@@ -1,6 +1,6 @@
 # Newskin-videojs-v6-v7
 Newskin videojs v6 &amp; v7
-<img src="https://raw.githubusercontent.com/maluklo/Skin-video-js-6.2.7/master/video-js.png">
+<img src="https://raw.githubusercontent.com/maluklo/Newskin-videojs-v6-v7/master/Newskin.png">
 ### Quick Start
 
 ```html
